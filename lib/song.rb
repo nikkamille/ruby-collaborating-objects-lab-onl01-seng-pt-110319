@@ -20,4 +20,6 @@ class Song
     new_song
   end
   
+  def s
+  
 end
