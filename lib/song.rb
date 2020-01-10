@@ -20,6 +20,6 @@ class Song
     new_song
   end
   
-  def s
+  def artist_name=(name)
   
 end
