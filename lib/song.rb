@@ -13,8 +13,8 @@ class Song
     @@all
   end
   
-  def self.new_by_filename
-    artist, song
+  def self.new_by_filename(filename)
+    artist, song = split
   end
   
 end
